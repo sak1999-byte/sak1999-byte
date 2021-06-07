@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sahil
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning DSA and Web/App deve
+- 🌱 I’m currently learning DSA and Web/App dev.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
