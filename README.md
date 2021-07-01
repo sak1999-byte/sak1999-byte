@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning DSA and Web/App dev.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me via Email : khundiyasahil@gmail.com 
 
 <!---
 sak1999-byte/sak1999-byte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
