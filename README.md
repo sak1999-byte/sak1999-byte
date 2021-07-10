@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sahil
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning DSA and Web/App dev.
+- 👀 I’m interested in Web development projects
+- 🌱 I’m currently learning Web devlopment.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via Email : khundiyasahil@gmail.com 
 
